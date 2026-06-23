@@ -4,7 +4,7 @@ cd sentiment_analatics
 
 pip install streamlit pandas pymysql textblob
 
-streamlit run streamlit_analysis.py
+streamlit run sentiment_analysis.py
 
 
 # sentiment_analatics
